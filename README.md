@@ -24,6 +24,9 @@ An automated attendance marking system that uses **facial recognition** to ident
 - 📁 Organized dataset management per student
 
 ---
+<img width="853" height="501" alt="image" src="https://github.com/user-attachments/assets/72c94be6-d7c8-4499-b2de-2360e26bbf77" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/25babb7a-794d-4334-b8f5-aefcd9e06bc2" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ff0f3f20-ae94-4aba-90b7-dd3a601b33d7" />
 
 ## 🛠️ Tech Stack
 
